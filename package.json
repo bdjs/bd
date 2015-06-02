@@ -1,0 +1,32 @@
+{
+  "name": "bd",
+  "version": "0.0.2",
+  "description": "An koa-based Node.js web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demohi/bd.git"
+  },
+  "keywords": [
+    "bd",
+    "koa",
+    "koajs",
+    "bdjs",
+    "express"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/bd/issues"
+  },
+  "homepage": "https://github.com/demohi/bd",
+  "dependencies": {
+    "bd-static": "^0.1.1",
+    "koa": "^0.21.0",
+    "koa-compose": "^2.3.0",
+    "koa-router": "^5.1.1"
+  }
+}
