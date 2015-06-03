@@ -15,6 +15,32 @@ $ npm install bd --save
 
 ## Example
 
+directory structure
+
+```text
+apps
+ |-app1
+     |-public
+         |-index.html
+     |-routes
+         |-route1.js
+         |-route2.js
+ |-app2
+     |-public
+         |-index.html
+     |-routes
+         |-route1.js
+         |-route2.js
+logs
+  |-app1
+     |-access-xx.log
+     |-error-xxx.log
+  |-app2
+     |-access-xx.log
+     |-error-xxx.log         
+index.js        
+```
+
 ```javascript
 var bd = require('bd');
 
