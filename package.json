@@ -1,6 +1,6 @@
 {
   "name": "bd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An koa-based Node.js web framework",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,10 @@
   "dependencies": {
     "bd-static": "^0.1.1",
     "koa": "^0.21.0",
+    "koa-bodyparser": "^2.0.0",
     "koa-compose": "^2.3.0",
-    "koa-router": "^5.1.1"
+    "koa-logger": "^1.2.2",
+    "koa-router": "^5.1.1",
+    "uuid": "^2.0.1"
   }
 }

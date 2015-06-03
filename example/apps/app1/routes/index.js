@@ -5,6 +5,7 @@
 
 'use strict';
 
+
 module.exports = function (router) {
   router.get('/name', function *(next) {
     this.body = 'app';
