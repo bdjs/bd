@@ -1,5 +1,5 @@
 # bd
-An koa-based Node.js web framework
+ An koa-based Node.js web framework
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
