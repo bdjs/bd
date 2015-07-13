@@ -1,6 +1,6 @@
 {
   "name": "bd",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "An koa-based Node.js web framework",
   "main": "lib/application.js",
   "scripts": {
