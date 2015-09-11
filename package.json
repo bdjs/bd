@@ -1,6 +1,6 @@
 {
   "name": "bd",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "description": "An koa-based Node.js web framework",
   "main": "lib/application.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "dependencies": {
     "bd-autoload": "^0.1.1",
     "bd-config": "^0.2.0",
-    "bd-router": "^0.2.2",
+    "bd-router": "^0.2.3",
     "bd-serve": "^0.2.1",
     "bd-static": "^0.1.1",
     "bd-uuid": "^0.1.0",
