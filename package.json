@@ -29,18 +29,24 @@
     "bd-router": "^0.3.0",
     "bd-serve": "^0.2.1",
     "bd-static": "^0.1.1",
-    "bd-uuid": "^0.1.0",
-    "koa": "^0.21.0",
-    "koa-bodyparser": "^2.0.0",
-    "koa-json": "^1.1.1",
-    "koa-logger": "^1.2.2",
-    "koa-safe-jsonp": "^0.3.0"
+    "bd-views": "^0.2.1",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-json": "^2.0.2",
+    "koa-safe-jsonp": "^0.3.1"
   },
   "engines": {
-    "node": ">= 0.11.16",
-    "iojs": ">= 1.0.0"
+    "node": ">= 8.0.0"
   },
   "files": [
     "lib"
-  ]
+  ],
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
 }
