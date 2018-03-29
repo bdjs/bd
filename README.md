@@ -13,6 +13,11 @@ An koa-based Node.js web framework
 $ npm install bd --save
 ```
 
+## Restriction
+
+`node -v >= 8.0`
+`koa -v >= 2.0`
+
 ## Example
 
 directory structure
@@ -54,6 +59,7 @@ app.listen(3030);
 ## Authors
 
   - [mdemo](https://github.com/demohi)
+  - [jiasm](https://github.com/jiasm)
 
 # License
 
