@@ -15,7 +15,7 @@ $ npm install bd --save
 
 ## Restriction
 
-`node -v >= 8.0`
+`node -v >= 8.0`  
 `koa -v >= 2.0`
 
 ## Example
