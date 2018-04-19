@@ -6,7 +6,6 @@ An koa-based Node.js web framework
 [![NPM downloads][downloads-image]][npm-url]
 [![Node.js dependencies][david-image]][david-url]
 
-
 ## Installation
 
 ```shell
@@ -50,7 +49,7 @@ index.js
 ```javascript
 var bd = require('bd');
 
-var app = bd();
+var app = new bd();
 
 app.listen(3030);
 
