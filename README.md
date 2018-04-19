@@ -9,8 +9,14 @@ An koa-based Node.js web framework
 
 ## Installation
 
-```
+```shell
 $ npm install bd --save
+```
+
+`kox2.x` supports:
+
+```shell
+$ npm install bd@next --save
 ```
 
 ## Example
@@ -54,11 +60,12 @@ app.listen(3030);
 ## Authors
 
   - [mdemo](https://github.com/demohi)
+  - [jiasm](https://github.com/jiasm)
 
 # License
 
   MIT
-  
+
 [npm-image]: https://img.shields.io/npm/v/bd.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/bd
 [travis-image]: https://img.shields.io/travis/demohi/bd/master.svg?style=flat-square

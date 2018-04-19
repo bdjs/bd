@@ -1,11 +1,9 @@
 {
   "name": "bd",
-  "version": "0.4.0",
+  "version": "2.0.0",
   "description": "An koa-based Node.js web framework",
   "main": "lib/application.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/demohi/bd.git"
@@ -17,20 +15,20 @@
     "bdjs",
     "express"
   ],
-  "author": "mdemo",
+  "author": "blued-fe",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/demohi/bd/issues"
   },
   "homepage": "https://github.com/demohi/bd",
   "dependencies": {
-    "bd-autoload": "^0.1.1",
-    "bd-config": "^0.2.0",
-    "bd-router": "^0.3.0",
+    "bd-autoload": "^2.0.1",
+    "bd-config": "^2.0.0",
+    "bd-dist": "^2.0.0",
+    "bd-router": "^2.0.0",
     "bd-serve": "^0.2.1",
-    "bd-static": "^0.1.1",
-    "bd-views": "^0.2.1",
-    "koa": "^2.4.1",
+    "bd-views": "^2.0.0",
+    "koa": "^2.5.0",
     "koa-bodyparser": "^4.2.0",
     "koa-json": "^2.0.2",
     "koa-safe-jsonp": "^0.3.1"
@@ -42,11 +40,11 @@
     "lib"
   ],
   "devDependencies": {
-    "eslint": "^4.15.0",
-    "eslint-config-standard": "^11.0.0-beta.0",
-    "eslint-plugin-import": "^2.8.0",
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-node": "^5.2.1",
-    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-promise": "^3.7.0",
     "eslint-plugin-standard": "^3.0.1"
   }
 }
