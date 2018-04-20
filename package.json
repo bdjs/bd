@@ -24,9 +24,9 @@
   "dependencies": {
     "bd-autoload": "^2.0.1",
     "bd-config": "^2.0.0",
-    "bd-dist": "^2.0.0",
+    "bd-dist": "^2.0.1",
     "bd-router": "^2.0.0",
-    "bd-serve": "^2.0.0",
+    "bd-serve": "^2.0.1",
     "bd-views": "^2.0.0",
     "koa": "^2.5.0",
     "koa-bodyparser": "^4.2.0",
