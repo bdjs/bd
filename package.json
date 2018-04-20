@@ -26,7 +26,7 @@
     "bd-config": "^2.0.0",
     "bd-dist": "^2.0.0",
     "bd-router": "^2.0.0",
-    "bd-serve": "^0.2.1",
+    "bd-serve": "^2.0.0",
     "bd-views": "^2.0.0",
     "koa": "^2.5.0",
     "koa-bodyparser": "^4.2.0",
