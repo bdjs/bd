@@ -25,7 +25,7 @@
     "bd-autoload": "^2.0.2",
     "bd-config": "^2.0.1",
     "bd-dist": "^2.0.3",
-    "bd-router": "^2.0.4",
+    "bd-router": "^2.0.5",
     "bd-serve": "^2.0.3",
     "bd-views": "^2.0.3",
     "koa": "^2.5.2",
