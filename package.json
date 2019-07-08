@@ -27,7 +27,7 @@
     "bd-autoload": "^0.1.1",
     "bd-config": "^0.2.0",
     "bd-router": "^0.3.0",
-    "bd-serve": "^0.2.1",
+    "bd-server": "^0.2.2",
     "bd-static": "^0.1.1",
     "bd-uuid": "^0.1.0",
     "koa": "^0.21.0",
